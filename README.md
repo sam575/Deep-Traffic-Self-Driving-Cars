@@ -3,4 +3,6 @@ DeepTraffic is a gamified simulation of typical highway traffic. The task is to 
 
 Website: http://selfdrivingcars.mit.edu/deeptraffic/
 
+The code should be uploaded and executed here: http://selfdrivingcars.mit.edu/deeptrafficjs/
+
 The following code has an average highest speed of 71.33 MPH.
